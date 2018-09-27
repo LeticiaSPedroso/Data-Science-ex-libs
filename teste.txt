@@ -1,0 +1,68 @@
+original_file|processed_file|retrieved_text
+dataset/cvs/cv Letícia da Silva Pedroso.pdf|./dataset/tmp_dir/583ea311-fa4b-4826-80f4-53255b6908e6/583ea311-fa4b-4826-80f4-53255b6908e6-0.jpg|"Letícia da Silva Pedroso
+
+Brasileira, solteira, 21 anos Poé - São Paulo — SP
+
+Rua Curuá, número 48 E-mail: Ieticia.pedrosoOt©fatec.sp.gov.br
+Telefone: (11) 2350—1700 / Celular: (11) 94333-0152
+
+Linkedln: https://www.Iinkedin.com/in/Iet%C3º/oADcia-pedroso-b062b698/
+
+OBJETIVO
+
+
+Atuar na área de desenvolvimento de sistemas utilizando inteligência artificial e ciência de
+dados
+
+SÍNTESE DAS QUALIFICAÇÓES
+
+Noções de: Python, Javascript, Inteligência Artificial, Data Mining, Machine Learning, Deep
+Learning, Visão Computacional, Redes Neurais Artificiais, Chatbot, Azure, CSS, HTML, PHP,
+Node JS, MySQL, Oracle SQL Developer, C, C++, MVC e Design Patterns e Bootstrap.
+
+FORMAÇÃO
+
+. Técnico em Informática para Internet — Etec Poá — SP — Conclusão 2014;
+o Técnico em Informática — Etec Poá — SP — Conclusão 2014;
+
+. Tecnologia em Análise e Desenvolvimento de Sistemas — Faculdade de Tecnologia de Mogi
+
+das Cruzes — SP - Em curso, conclusão prevista para 2019.
+
+EXPERIÉNCIA PROFISSIONAL
+
+Estagiária de Desenvolvimento Web - Playball Empreendimentos Esportivos Ltda. - início 5
+
+de janeiro de 2017, até 11 de Setembro de 2017;
+
+Estagiária de Inteligência Artificial — BRQ Digital Solutions — início 25 de setembro de 2017,
+
+até o momento;
+
+Trabalho voluntário como organizadora de eventos técnicos na comunidade Caqui Coders.
+
+IDIOMAS
+
+. Inglês — Técnico."
+dataset/cvs/Currículo.pdf|./dataset/tmp_dir/aeb4e906-2abf-4a6b-be71-87dcb2ac7cf8/aeb4e906-2abf-4a6b-be71-87dcb2ac7cf8-0.jpg|"Igor Halfeld
+
+Sou um cara legal.
+
+EXPERIÉNCIA
+
+Microsoft, São Paulo, BR — Software Enginer
+DESDE DE OUTUBRO DE 2017
+
+Responsável por lidar com aplicações web da Azure.
+
+Google, São Paulo, BR — Software Enginer
+JANEIRO DE 2016 — OUTUBRO DE 2017
+
+Responsável por pegar respostas no Stack Overflow.
+
+FORMAÇÃO
+
+USP, São Paulo, BR — Computer Science
+JANEIRO DE 2012 — FEVEREIRO DE 2016
+
+Curso de ciência da computação."
